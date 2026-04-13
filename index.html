@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="th">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resident Evil Requiem - แคสเสียงพากย์ไทย</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Hero Banner Section -->
+    <header class="hero">
+        <!-- ใส่ URL รูปภาพ Banner ที่ background ใน CSS หรือเพิ่มป้าย <img> ที่นี่ -->
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <h2 class="subtitle">แคสเสียงพากย์ไทย</h2>
+            <h1 class="title">Resident Evil Requiem</h1>
+            <p class="desc">
+                ! โปรดอ่านรายละเอียดก่อนการแคส !<br>
+                การแคสนี้ในตอนที่กำลังทำจะไม่มีการจ่ายค่าใช้จ่ายให้ <br>
+                แต่จะมีการนำเงินที่ได้จาก "โดเนท" มาแบ่งให้นักพากย์แน่นอน
+            </p>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- Character Selection Section -->
+        <section class="characters fade-in">
+            <h2>เลือกตัวละครที่จะแคส</h2>
+            <div class="char-buttons" id="char-buttons-container">
+            </div>
+        </section>
+
+        <!-- Dynamic Card Section -->
+        <section id="details-section" class="card-section">
+            <div class="glass-card">
+                <div class="video-container">
+                    <iframe id="char-video" width="100%" height="100%" src="" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
+                </div>
+                <div class="card-info">
+                    <h3 id="char-name">ชื่อตัวละคร</h3>
+                    <a href="#" id="char-drive" target="_blank" class="drive-btn">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                            class="feather feather-download-cloud">
+                            <polyline points="8 17 12 21 16 17"></polyline>
+                            <line x1="12" y1="12" x2="12" y2="21"></line>
+                            <path d="M20.88 18.09A5 5 0 0 0 18 9h-1.26A8 8 0 1 0 3 16.29"></path>
+                        </svg>
+                        โหลดคลิป
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Instructions Section -->
+        <section class="instructions fade-in">
+            <h2>รายละเอียดและขั้นตอนการส่งแคส</h2>
+            <div class="instruction-box">
+                <ul class="step-list">
+                    <li>
+                        <div class="step-num">1</div>
+                        <p>คลิกเลือกตัวละครที่ต้องการแคสด้านบน เพื่อดูตัวอย่างวิดีโอและดาวน์โหลดคลิป</p>
+                    </li>
+                    <li>
+                        <div class="step-num">2</div>
+                        <p>เอาเสียงหรือปิดเสียงต้นฉบับออก <br>
+                            (โปรดจดชื่อตัวละครที่จะแคสทุกตัวไว้ เพราะเวลากรอก Google Forms
+                            ต้องติ๊กตัวละครที่แคส)</p>
+                    </li>
+                    <li>
+                        <div class="step-num">3</div>
+                        <p>พากย์เสียงตามบทที่ขึ้นในวิดีโอ สามารถปรับเอลี่ยนได้ตามใจชอบ <br>(ห้ามใส่เอฟเฟกต์อะไรทั้งนั้น
+                            เราต้องการฟังเสียงสด ๆ)</p>
+                    </li>
+                    <li>
+                        <div class="step-num">4</div>
+                        <p>กดปุ่ม "ส่งแคส" ด้านล่าง เพื่อกรอกแบบฟอร์ม</p>
+                    </li>
+                    <li>
+                        <div class="step-num">5</div>
+                        <p>เวลาส่งไฟล์ต้องเป็น MP4 เท่านั้น</p>
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- Call to Action Section -->
+        <section class="cta-section fade-in">
+            <a href="https://forms.gle/vX8eaC7W9qaFX4GJ7" target="_blank" class="submit-btn effect-glitch">
+                <span class="glitch-text">ส่งแคส</span>
+            </a>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
