@@ -47,57 +47,57 @@ const charactersData = {
     },
     char10: {
         name: "มาร์วิน , เคนโด้",
-        videoUrl: "", // วิดีโอตัวอย่าง
+        videoUrl: "https://youtu.be/D5Jc98vaAMc", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/1aAxeOeF9_tsC5qQiOQ89d4_SCSvw5pHY/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     },
     char11: {
         name: "นาธาน",
-        videoUrl: "", // วิดีโอตัวอย่าง
+        videoUrl: "https://youtu.be/0AhbkkxiiXE", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/10sYpqlwlLa1JOJNp_Le9VwnGdr7AVaxl/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     },
     char12: {
         name: "วิกเตอร์",
-        videoUrl: "", // วิดีโอตัวอย่าง
+        videoUrl: "https://youtu.be/WNACKAkWIPY", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/1-hve_h8Qbcs1LGRiWhxRBeNzZwYXQEr2/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     },
     char13: {
         name: "สเปนเซอร์",
-        videoUrl: "", // วิดีโอตัวอย่าง
+        videoUrl: "https://youtu.be/BLZDc9lCfxg", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/1eBKnW2kWEF7-OgWgxcRpfGIQJwinuBhE/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     },
     char14: {
         name: "หมอบาดเจ็บ , ชาวเมืองชาย , ชายสวมฮู้ด",
-        videoUrl: "", // วิดีโอตัวอย่าง
+        videoUrl: "https://youtu.be/WJ2mf5F4kQg", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/1zahhzVG-M_MFBKfbZ5rKpSJMxf-ahenJ/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     },
     char15: {
         name: "หัวหน้าทีมทหาร , คอมมานโด",
-        videoUrl: "", // วิดีโอตัวอย่าง
+        videoUrl: "https://youtu.be/EWtl3KYSxUk", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/1R2H22WeZuup5RidTD4tQJbw4PE3opG41/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     },
     char16: {
         name: "อลิซซ่า",
-        videoUrl: "", // วิดีโอตัวอย่าง
+        videoUrl: "https://youtu.be/K45zcXSlZu0", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/1S_Peu0ZsLwKpstA2SclHvuPuIokzmQjo/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     },
     char17: {
         name: "เอมเบอร์อายส์",
-        videoUrl: "", // วิดีโอตัวอย่าง
+        videoUrl: "https://youtu.be/Vcv_WWREytY", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/1XYnLjxtQplxZWCdMWdHPaMJ_nXZhJf5F/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     },
     char18: {
         name: "เอมิลี่",
-        videoUrl: "", // วิดีโอตัวอย่าง
+        videoUrl: "https://youtu.be/2_PmCkPae_4", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/1ZtoLG6eUNFIyO8fxs75EKfXdOe3OiI5A/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     },
     char19: {
         name: "โอเปอเรเตอร์ , ฮังค์",
-        videoUrl: "", // วิดีโอตัวอย่าง
+        videoUrl: "https://youtu.be/TF6vxCIycZk", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/1ZqCyCgR_NAeotXpvncZqSi6YUZql1kuV/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     },
     char20: {
         name: "แฮร์รี่",
-        videoUrl: "", // วิดีโอตัวอย่าง
+        videoUrl: "https://youtu.be/6uxA1xuW82s", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/1KtiYdwQay9_w0rvSzSkYASuASYbN8qrB/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     }
 
