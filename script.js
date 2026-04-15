@@ -36,7 +36,7 @@ const charactersData = {
         driveLink: "https://drive.google.com/file/d/1epiy-9VxgY_CbkEP9ydb6gKeRiHu-uqi/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     },
     char8: {
-        name: "นักข่าวชาย , นักข่าวหญิง (ผู้หญิง)",
+        name: "นักข่าวชาย , นักข่าวหญิง (ผู้ชาย / ผู้หญิง)",
         videoUrl: "https://youtu.be/1b6Q5QoeSIY?si=0yPo2j7ubW2rdeRc", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/1mApTeG1QCTPjHg3YfHz3ugBSyp6TV4ID/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     },
