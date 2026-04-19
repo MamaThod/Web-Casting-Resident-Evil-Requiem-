@@ -56,46 +56,41 @@ const charactersData = {
         driveLink: "https://drive.google.com/file/d/10sYpqlwlLa1JOJNp_Le9VwnGdr7AVaxl/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     },
     char12: {
-        name: "วิกเตอร์ (ผู้ชาย)",
-        videoUrl: "https://youtu.be/WNACKAkWIPY", // วิดีโอตัวอย่าง
-        driveLink: "https://drive.google.com/file/d/1-hve_h8Qbcs1LGRiWhxRBeNzZwYXQEr2/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
-    },
-    char13: {
         name: "สเปนเซอร์ (ผู้ชาย)",
         videoUrl: "https://youtu.be/BLZDc9lCfxg", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/1eBKnW2kWEF7-OgWgxcRpfGIQJwinuBhE/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     },
-    char14: {
+    char13: {
         name: "หมอบาดเจ็บ , ชาวเมืองชาย , ชายสวมฮู้ด (ผู้ชาย)",
         videoUrl: "https://youtu.be/WJ2mf5F4kQg", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/1zahhzVG-M_MFBKfbZ5rKpSJMxf-ahenJ/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     },
-    char15: {
+    char14: {
         name: "หัวหน้าทีมทหาร , คอมมานโด (ผู้ชาย)",
         videoUrl: "https://youtu.be/EWtl3KYSxUk", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/1R2H22WeZuup5RidTD4tQJbw4PE3opG41/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     },
-    char16: {
+    char15: {
         name: "อลิซซ่า (ผู้หญิง)",
         videoUrl: "https://youtu.be/K45zcXSlZu0", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/1S_Peu0ZsLwKpstA2SclHvuPuIokzmQjo/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     },
-    char17: {
+    char16: {
         name: "เอมเบอร์อายส์ (ผู้ชาย)",
         videoUrl: "https://youtu.be/Vcv_WWREytY", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/1XYnLjxtQplxZWCdMWdHPaMJ_nXZhJf5F/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     },
-    char18: {
+    char17: {
         name: "เอมิลี่ (เด็กผู้หญิง)",
         videoUrl: "https://youtu.be/2_PmCkPae_4", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/1ZtoLG6eUNFIyO8fxs75EKfXdOe3OiI5A/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     },
-    char19: {
+    char18: {
         name: "โอเปอเรเตอร์ , ฮังค์ (ผู้ชาย)",
         videoUrl: "https://youtu.be/TF6vxCIycZk", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/1ZqCyCgR_NAeotXpvncZqSi6YUZql1kuV/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     },
-    char20: {
+    char19: {
         name: "แฮร์รี่ (ผู้ชาย)",
         videoUrl: "https://youtu.be/6uxA1xuW82s", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/1KtiYdwQay9_w0rvSzSkYASuASYbN8qrB/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
