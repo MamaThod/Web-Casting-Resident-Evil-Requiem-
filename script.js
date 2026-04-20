@@ -94,6 +94,11 @@ const charactersData = {
         name: "แฮร์รี่ (ผู้ชาย)",
         videoUrl: "https://youtu.be/6uxA1xuW82s", // วิดีโอตัวอย่าง
         driveLink: "https://drive.google.com/file/d/1KtiYdwQay9_w0rvSzSkYASuASYbN8qrB/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
+    },
+    char20: {
+        name: "วิกเตอร์ (ผู้ชาย)",
+        videoUrl: "https://youtu.be/WNACKAkWIPY", // วิดีโอตัวอย่าง
+        driveLink: "https://drive.google.com/file/d/1-hve_h8Qbcs1LGRiWhxRBeNzZwYXQEr2/view?usp=drive_link" // ลิงก์ Google Drive สำหร้บบทของตัวละครนี้
     }
 
 };
